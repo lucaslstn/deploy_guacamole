@@ -80,7 +80,7 @@ EOF
 cat > "$BUILD_DIR/resources/fr.json" <<EOF
 {
     "APP": {
-        "NAME": " **TEST** GUACAMOLE CH MARCHANT"
+        "NAME": "GUACAMOLE"
     },
     "LOGIN": {
         "INFO_WELCOME": "Veuillez vous identifier. Toutes les actions sont enregistrées."
